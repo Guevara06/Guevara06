@@ -44,6 +44,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Guevara06/Guevara06/output/snake.svg" alt="Snake animation" />
 
 ###
